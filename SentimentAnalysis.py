@@ -10,7 +10,7 @@ from sklearn.model_selection import train_test_split
 
 # Importing dataset
 
-data = pd.read_csv('C:\\Users\\Büşra\\Desktop\\yelp_labelled.txt', sep='\t')
+data = pd.read_csv('C:\\Users\\xxxx\\Desktop\\yelp_labelled.txt', sep='\t')
 
 # Assigning column names to DataFrame
 
